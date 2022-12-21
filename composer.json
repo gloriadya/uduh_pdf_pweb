@@ -1,0 +1,17 @@
+{
+    "name": "gloria/pweb",
+    "description": "Tugas PWEB PHP dan MySQL",
+    "authors": [
+        {
+            "name": "gloriadya",
+            "email": "gloria.205025@mhs.its.ac.id"
+        }
+    ],
+    "require": {},
+    "scripts": {
+        "server": "php -S localhost:8080"
+    },
+    "config": {
+        "process-timeout":0
+      }
+}
